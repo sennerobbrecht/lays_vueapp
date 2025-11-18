@@ -1,8 +1,14 @@
 <template>
-  <Navbar />
-  <router-view />
+  <div id="app">
+    <NavbarApp />
+    <router-view />
+  </div>
 </template>
 
 <script setup>
-import Navbar from './components/NavbarApp.vue'
+import NavbarApp from './components/NavbarApp.vue'
 </script>
+
+<style>
+/* optioneel */
+</style>
