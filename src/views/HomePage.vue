@@ -3,9 +3,9 @@
 </template>
 
 <script setup>
-// voorlopig leeg
+
 </script>
 
 <style scoped>
-/* optioneel */
+
 </style>
